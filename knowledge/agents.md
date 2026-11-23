@@ -1,0 +1,1 @@
+Agentic systems use tools to gather information and carry out a sequence of steps. A safe agent checks its inputs and limits what actions tools can perform. Evidence and citations make research outputs easier to verify.
